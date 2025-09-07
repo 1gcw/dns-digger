@@ -11,10 +11,12 @@ It supports multi-threading, caching, custom or default wordlists, and outputs o
 - Colored terminal output using [Rich](https://github.com/Textualize/rich)
 - Fast multi-threaded DNS scanning
 - Output saved as:
+```bash
   output/
   └── google.com/
       ├── valid.txt
       └── invalid.txt
+```
 - Caching with JSON to avoid duplicate lookups
 - Use your own wordlist or the default one included
 
