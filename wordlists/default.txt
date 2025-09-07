@@ -1,0 +1,25 @@
+# EXAMPLE WORDLIST
+## Do it your way
+
+www
+api
+mail
+gemini
+firebase
+ftp
+admin
+dashboard
+login
+dev
+staging
+test
+support
+cdn
+webmail
+vpn
+secure
+portal
+blog
+help
+static
+files
